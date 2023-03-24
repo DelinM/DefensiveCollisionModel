@@ -21,7 +21,7 @@ The goal of the project is to study the behavior of the agents in a multi-robot 
 * Additional of gravitational force and air resistance
 
 # Denfensive In-ground Robots (agents)
-## Stage I - Simple Setup
+### Stage I - Simple Setup
 * Movement: location fixed, only rotation allowed with 100 degree
 * Rotation: degree/increase trajectory angle, speed: x degree/second, tbd
 * Rounds Per Second: tbd, with limited rounds
